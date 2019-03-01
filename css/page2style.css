@@ -1,0 +1,33 @@
+.jumbotron{
+  background: lightgrey;
+  border-bottom-right-radius:20px;
+  border-bottom-left-radius:20px;
+  padding-top:10px;
+  position: fixed;
+}
+.row{
+  padding-left:40%;
+  padding-top:10px;
+  width:1700px;
+  font-size:20px;
+  
+}
+
+body {
+  padding-top: 3.5rem;
+}
+h2{
+  color:#2E7D32;
+  text-decoration: underline;
+}
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
